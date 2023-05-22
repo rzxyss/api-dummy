@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "file": "http://localhost:3000/assets/pdf/CV.pdf",
+    "title": "CV Yang Sangat Baik",
+    "slug": "cv-yang-sangat-baik"
+  },
+  {
+    "id": 2,
+    "file": "http://localhost:3000/assets/pdf/CV-2.pdf",
+    "title": "CV Yang Sangat Baik 2",
+    "slug": "cv-yang-sangat-baik-2"
+  },
+  {
+    "id": 3,
+    "file": "http://localhost:3000/assets/pdf/CV-3.pdf",
+    "title": "CV Yang Sangat Baik 3",
+    "slug": "cv-yang-sangat-baik-3"
+  },
+  {
+    "id": 4,
+    "file": "http://localhost:3000/assets/pdf/CV-4.pdf",
+    "title": "CV Yang Sangat Baik 4",
+    "slug": "cv-yang-sangat-baik-4"
+  }
+]
